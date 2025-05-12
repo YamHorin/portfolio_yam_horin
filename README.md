@@ -21,4 +21,4 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 - [Optional] Bootstrap/Tailwind CSS
 - [Optional] Animations (AOS, Framer Motion, etc.)
 ## link to the website 
-<a href="https://yamhorin.github.io/portfolio_yam_horin/">link to the</a>
+<a href="https://yamhorin.github.io/portfolio_yam_horin/">link to the portfolio</a>
