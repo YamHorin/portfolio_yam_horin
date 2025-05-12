@@ -20,3 +20,5 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 - JavaScript (Vanilla or Framework - e.g., React)
 - [Optional] Bootstrap/Tailwind CSS
 - [Optional] Animations (AOS, Framer Motion, etc.)
+## link to the website 
+<a href="https://yamhorin.github.io/portfolio_yam_horin/">link to the</a>
