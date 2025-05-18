@@ -128,3 +128,13 @@ img{
   {
     display: flex;
   }
+  .card h3:hover
+  {
+    cursor: pointer;
+    text-decoration: underline;
+    color: rgb(56, 67, 182);
+  }
+  .card img
+  {
+    cursor: pointer;
+  }
