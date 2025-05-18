@@ -138,3 +138,9 @@ img{
   {
     cursor: pointer;
   }
+  .education-par
+  {
+    display: grid;
+    align-items: center;
+    justify-content: space-around;
+  }
